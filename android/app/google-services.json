@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489725640591",
+    "firebase_url": "https://jolkabeta-chat.firebaseio.com",
+    "project_id": "jolkabeta-chat",
+    "storage_bucket": "jolkabeta-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489725640591:android:5a80dde7b94071ade855fa",
+        "android_client_info": {
+          "package_name": "co.jolkabetaDesox.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489725640591-fi463g33v4sbt3c11l5a5dcfifekqmue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEWdMIQcV7nQocdjZINPbJ5KIBYAkvXzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489725640591-fi463g33v4sbt3c11l5a5dcfifekqmue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
