@@ -1,7 +1,9 @@
 
-# JolkaBeta Chat 🐟🐟 (For The Complete Flutter Development Bootcamp, Based on "Flash Chat")
+# JolkaBeta Chat 🐟🐟 
 
 Chat made in flutter incorporating Firebase, using Firebase Auth and the Hero Widget for beautiful animations.
+
+(The Complete Flutter Development Bootcamp, Based on "Flash Chat")
 
 ********************
 
